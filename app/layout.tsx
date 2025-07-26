@@ -5,9 +5,9 @@ import "./globals.css";
 import ThemeProvider from "@/components/theme-provider";
 
 export const metadata: Metadata = {
-    title: "v0 App",
-    description: "Created with v0",
-    generator: "v0.dev",
+    title: "Pharmacist Portfolio",
+    description:
+        "Portfolio of a clinical pharmacist specializing in precision medicine and AI-assisted healthcare solutions.",
 };
 
 export default function RootLayout({
